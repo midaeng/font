@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 400;
 
-  src: url(//github.com/midaeng/font/NanumBarunPenR/blob/master/NanumBarunpenR.eot);
-  src: url(//github.com/midaeng/font/NanumBarunPenR/blob/master/NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
-       url(//github.com/midaeng/font/NanumBarunPenR/blob/master/NanumBarunpenR.woff) format('woff'),
-       url(//github.com/midaeng/font/NanumBarunPenR/blob/master/NanumBarunpenR.ttf) format('truetype');
+  src: url(//github.com/midaeng/font/blob/master/NanumBarunPenR/NanumBarunpenR.eot);
+  src: url(//github.com/midaeng/font/blob/master/NanumBarunPenR/NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/midaeng/font/blob/master/NanumBarunPenR/NanumBarunpenR.woff) format('woff'),
+       url(//github.com/midaeng/font/blob/master/NanumBarunPenR/NanumBarunpenB.ttf) format('truetype');
 }
