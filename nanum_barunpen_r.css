@@ -1,13 +1,10 @@
 /*
  * NanumBarunpenR (Korean) https://github.com/midaeng/font
+ * https://github.com/midaeng/font/blob/master/nanum_barunpen_r.css
  */
 @font-face {
   font-family: 'Nanum Barunpen R';
   font-style: normal;
   font-weight: 400;
-  src: url(//fonts.gstatic.com/ea/nanumbrushscript/v4/NanumBrushScript-Regular.eot);
-  src: url(//fonts.gstatic.com/ea/nanumbrushscript/v4/NanumBrushScript-Regular.eot?#iefix) format('embedded-opentype'),
-       url(//fonts.gstatic.com/ea/nanumbrushscript/v4/NanumBrushScript-Regular.woff2) format('woff2'),
-       url(//fonts.gstatic.com/ea/nanumbrushscript/v4/NanumBrushScript-Regular.woff) format('woff'),
-       url(//fonts.gstatic.com/ea/nanumbrushscript/v4/NanumBrushScript-Regular.ttf) format('truetype');
+  src: url(//github.com/midaeng/font/blob/master/NanumBarunpenR.ttf) format('truetype');
 }

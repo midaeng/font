@@ -1,9 +1,0 @@
-/*
- * NanumBarunpenR (Korean) https://github.com/midaeng/font
- */
-@font-face {
-  font-family: 'Nanum Barunpen R';
-  font-style: normal;
-  font-weight: 400;
-  src: url(//github.com/midaeng/font/NanumBarunpenR.ttf) format('truetype');
-}
